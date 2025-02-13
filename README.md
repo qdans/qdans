@@ -1,6 +1,6 @@
 ## <h1 align="center"> Welcome to My GitHub Profile! 👋</h1>
 
-<p align="center">Hi there! I'm <strong><a href="https://github.com/qdans">Dans</a></strong>, yeah </p>
+<p align="center">Hi there! I'm <strong><a href="https://github.com/qdans">Dans</a></strong>, yeah 👀 </p>
 
 ---
 
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdans&layout=compact&theme=radical" alt="Top Languages" width="48%" height="200px"/>
 </p>
 
----
+
 
 ## 🤝 Connect with Me
 
@@ -35,4 +35,4 @@
   </a>
 </p>
 
----
+
