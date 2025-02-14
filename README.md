@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Hello. I'm DANS.</h1>
 
-<!--
-**qdans/qdans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The fastest thing in the world is technology 🚀</p>
 
-Here are some ideas to get you started:
+<!-- Profile Section -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=github_dark" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats + Commits (Flexbox - Space Between) -->
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=github_dark" width="49.7%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qdans&theme=github_dark&utcOffset=+7" width="49.7%" />
+</div>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github.com/qdans/qdans/blob/output/snake.svg" width="110%" height="auto">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
