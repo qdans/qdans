@@ -7,10 +7,10 @@ The fastest thing in the world is technology 🚀</p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=github_dark" width="100%" />
 </p>
 
-<!-- Stats + Commits (Flexbox - Space Between) -->
+<!-- Stats + Most Used Languages (Flexbox - Space Between) -->
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=github_dark" width="49.7%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qdans&theme=github_dark&utcOffset=+7" width="49.7%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=github_dark" width="49.7%" />
 </div>
 
 <!-- Contribution Graph -->
