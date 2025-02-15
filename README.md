@@ -2,16 +2,21 @@
 
 The fastest thing in the world is technology 🚀</p>
 
-<!-- Profile Section -->
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" width="100%" />
-</p>
-
-<!-- Stats + Most Used Languages (Flexbox - Space Between) -->
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" width="49.7%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" width="49.7%" />
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <!-- Contribution Graph -->
 <p align="center">
