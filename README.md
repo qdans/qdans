@@ -2,17 +2,17 @@
 
 The fastest thing in the world is technology 🚀</p>
 
-<table width="100%" align="center">
+<table width="120%" align="center" style="max-width: 1200px;">
   <tr>
     <td colspan="2" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" width="100%" />
     </td>
   </tr>
   <tr>
-    <td width="100%" align="center">
+    <td width="50%" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" width="100%" />
     </td>
-    <td width="100%" align="center">
+    <td width="50%" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" width="100%" />
     </td>
   </tr>
