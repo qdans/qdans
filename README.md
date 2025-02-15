@@ -2,27 +2,56 @@
 
 The fastest thing in the world is technology 🚀</p>
 
-<table style="width: 100vw; max-width: 100vw; margin: 0; border-collapse: collapse; border-radius: 20px; overflow: hidden;">
-  <tr>
-    <td colspan="2" style="padding: 0;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" 
-           style="width: 100vw; max-width: 100vw; display: block; border: 2px solid #444; border-radius: 20px;" />
-    </td>
-  </tr>
-</table>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  .github-profile-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .github-profile-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  .github-profile-container img {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    border: 2px solid #444;
+    border-radius: 20px;
+  }
+</style>
 
-<table style="width: 100vw; max-width: 100vw; margin: 0; border-collapse: collapse; border-radius: 20px; overflow: hidden;">
-  <tr>
-    <td style="width: 50vw; padding: 0;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" 
-           style="width: 50vw; max-width: 50vw; display: block; border: 2px solid #444; border-radius: 20px;" />
-    </td>
-    <td style="width: 50vw; padding: 0;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" 
-           style="width: 50vw; max-width: 50vw; display: block; border: 2px solid #444; border-radius: 20px;" />
-    </td>
-  </tr>
-</table>
+<div class="github-profile-container">
+  <table>
+    <tr>
+      <td colspan="2">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" 
+             alt="GitHub Profile Details" />
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" 
+             alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" 
+             alt="Most Commit Language" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center" style="width: 100%; max-width: 100vw; display: flex; justify-content: center;">
   <picture>
