@@ -2,21 +2,25 @@
 
 The fastest thing in the world is technology 🚀</p>
 
-<table width="100%" style="max-width: 100vw; margin: 0 auto; border-collapse: collapse;">
+<table width="100%" style="border-collapse: collapse;">
+  <!-- Baris 1: Profile Details (Lebar penuh) -->
   <tr>
-    <td colspan="2" style="background-color: transparent;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" style="width: 100vw;" />
+    <td colspan="2" style="text-align: center; padding: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" style="width: 100%; border: 2px solid #444; border-radius: 10px;" />
     </td>
   </tr>
+  
+  <!-- Baris 2: Stats dan Top Languages (Dua kolom) -->
   <tr>
-    <td width="50%" style="background-color: transparent;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" style="width: 100vw;" />
+    <td width="50%" style="text-align: center; padding: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" style="width: 100%; border: 2px solid #444; border-radius: 10px;" />
     </td>
-    <td width="50%" style="background-color: transparent;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" style="width: 100vw;" />
+    <td width="50%" style="text-align: center; padding: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" style="width: 100%; border: 2px solid #444; border-radius: 10px;" />
     </td>
   </tr>
 </table>
+
 
 <!-- Contribution Graph -->
 <p align="center" style="width: 100%; max-width: 100vw; display: flex; justify-content: center;">
