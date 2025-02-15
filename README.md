@@ -2,14 +2,28 @@
 
 The fastest thing in the world is technology 🚀</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; max-width: 100vw; margin: 0 auto;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" style="width: 100%;" />
+<table width="100%" style="max-width: 100vw; margin: 0 auto; border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td colspan="2" style="text-align: center; padding: 10px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" 
+           style="width: 100%; border: 2px solid #444; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-  <div style="display: flex; width: 100%; gap: 20px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" style="width: 50%;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" style="width: 50%;" />
-  </div>
-</div>
+<table width="100%" style="max-width: 100vw; margin: 0 auto; border-collapse: collapse;">
+  <tr>
+    <td width="50%" style="text-align: center; padding: 10px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" 
+           style="width: 100%; border: 2px solid #444; border-radius: 10px;" />
+    </td>
+    <td width="50%" style="text-align: center; padding: 10px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" 
+           style="width: 100%; border: 2px solid #444; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
 
 <!-- Contribution Graph -->
 <p align="center" style="width: 100%; max-width: 100vw; display: flex; justify-content: center;">
