@@ -2,7 +2,7 @@
 
 The fastest thing in the world is technology 🚀</p>
 
-<table width="100%" style="max-width: 100vw; margin: 0 auto;">
+<table width="100%" style="max-width: 100vw; margin: 0 auto; margin-bottom: 20px;">
   <tr>
     <td colspan="2">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" style="width: 100vw;" />
@@ -17,6 +17,7 @@ The fastest thing in the world is technology 🚀</p>
     </td>
   </tr>
 </table>
+
 
 
 <!-- Contribution Graph -->
