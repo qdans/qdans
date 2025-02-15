@@ -18,13 +18,12 @@ The fastest thing in the world is technology 🚀</p>
   </tr>
 </table>
 
-
 <!-- Contribution Graph -->
-<p align="center">
+<p align="center" style="width: 100vw;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/qdans/qdans/blob/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/qdans/qdans/blob/output/snake-light.svg" />
-    <img src="https://github.com/qdans/qdans/blob/output/snake-dark.svg" alt="Snake animation">
+    <img src="https://github.com/qdans/qdans/blob/output/snake-dark.svg" alt="Snake animation" style="width: 100vw;" />
   </picture>
 </p>
 
