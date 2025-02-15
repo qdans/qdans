@@ -3,23 +3,28 @@
 The fastest thing in the world is technology 🚀</p>
 
 <table width="100%" style="border-collapse: collapse;">
-  <!-- Baris 1: Profile Details (Lebar penuh) -->
+  <!-- Baris 1: Profile Details -->
   <tr>
-    <td colspan="2" style="text-align: center; padding: 10px;">
+    <td style="text-align: center; padding: 10px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" style="width: 100%; border: 2px solid #444; border-radius: 10px;" />
     </td>
   </tr>
   
-  <!-- Baris 2: Stats dan Top Languages (Dua kolom) -->
+  <!-- Baris 2: Stats -->
   <tr>
-    <td width="50%" style="text-align: center; padding: 10px;">
+    <td style="text-align: center; padding: 10px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" style="width: 100%; border: 2px solid #444; border-radius: 10px;" />
     </td>
-    <td width="50%" style="text-align: center; padding: 10px;">
+  </tr>
+
+  <!-- Baris 3: Top Languages -->
+  <tr>
+    <td style="text-align: center; padding: 10px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" style="width: 100%; border: 2px solid #444; border-radius: 10px;" />
     </td>
   </tr>
 </table>
+
 
 
 <!-- Contribution Graph -->
