@@ -4,13 +4,13 @@ The fastest thing in the world is technology 🚀</p>
 
 <!-- Profile Section -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=github_dark" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" width="100%" />
 </p>
 
 <!-- Stats + Most Used Languages (Flexbox - Space Between) -->
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=github_dark" width="49.7%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=github_dark" width="49.7%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" width="49.7%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" width="49.7%" />
 </div>
 
 <!-- Contribution Graph -->
