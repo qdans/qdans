@@ -9,10 +9,10 @@ The fastest thing in the world is technology 🚀</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" width="100%" />
     </td>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" width="100%" />
     </td>
   </tr>
