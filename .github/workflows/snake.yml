@@ -1,7 +1,7 @@
 name: Snake Animation
 
 on:
-  schedule: # execute every 24 hours at midnight UTC
+  schedule: # execute every 24 hours
     - cron: "0 0 * * *"
 
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark,github-light&dot_opacity=0.5
+          outputs: dist/snake.svg?palette=github-dark&dot_opacity=0.5
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
