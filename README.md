@@ -2,47 +2,27 @@
 
 The fastest thing in the world is technology 🚀</p>
 
-<style>
-  table {
-    width: 100%;
-    max-width: 100vw;
-    margin: 0 auto;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-  }
-  td {
-    text-align: center;
-    padding: 10px;
-  }
-  img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border: 2px solid #444;
-    border-radius: 10px;
-  }
-</style>
-
-<table>
+<table width="100%" style="max-width: 100vw; margin: 0 auto; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
-    <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" />
+    <td colspan="2" style="padding: 10px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" 
+           style="width: 100%; display: block; border: 2px solid #444; border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
-<table>
+<table width="100%" style="max-width: 100vw; margin: 0 auto; border-collapse: collapse;">
   <tr>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" />
+    <td width="50%" style="padding: 10px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" 
+           style="width: 100%; display: block; border: 2px solid #444; border-radius: 10px;" />
     </td>
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" />
+    <td width="50%" style="padding: 10px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" 
+           style="width: 100%; display: block; border: 2px solid #444; border-radius: 10px;" />
     </td>
   </tr>
 </table>
-
-
 
 <!-- Contribution Graph -->
 <p align="center" style="width: 100%; max-width: 100vw; display: flex; justify-content: center;">
