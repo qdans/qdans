@@ -13,19 +13,17 @@ The fastest thing in the world is technology 🚀</p>
 
 <table style="width: 100vw; max-width: 100vw; margin: 0; border-collapse: collapse;">
   <tr>
-    <td width="50%" style="padding: 5px;">
+    <td style="width: 50vw; padding: 0;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" 
-           style="width: 100%; max-width: 100%; display: block; border: 2px solid #444; border-radius: 10px;" />
+           style="width: 50vw; max-width: 50vw; display: block; border: 2px solid #444; border-radius: 10px;" />
     </td>
-    <td width="50%" style="padding: 5px;">
+    <td style="width: 50vw; padding: 0;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" 
-           style="width: 100%; max-width: 100%; display: block; border: 2px solid #444; border-radius: 10px;" />
+           style="width: 50vw; max-width: 50vw; display: block; border: 2px solid #444; border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
-
-<!-- Contribution Graph -->
 <p align="center" style="width: 100%; max-width: 100vw; display: flex; justify-content: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/qdans/qdans/blob/output/snake-dark.svg" />
