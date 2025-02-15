@@ -5,15 +5,15 @@ The fastest thing in the world is technology 🚀</p>
 <table width="100%" align="center" style="max-width: 100vw;">
   <tr>
     <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" style="width: var(--profile-width, 150%); max-width: 100vw;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" style="width: var(--profile-width, 150%); max-width: 150vw;" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" style="width: var(--stats-width, 150%); max-width: 100vw;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qdans&theme=transparent" style="width: var(--stats-width, 150%); max-width: 150vw;" />
     </td>
     <td width="50%" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" style="width: var(--language-width, 150%); max-width: 100vw;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qdans&theme=transparent" style="width: var(--language-width, 150%); max-width: 150vw;" />
     </td>
   </tr>
 </table>
