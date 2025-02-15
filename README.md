@@ -2,7 +2,7 @@
 
 The fastest thing in the world is technology 🚀</p>
 
-<table width="120%" align="center" style="max-width: 1200px;">
+<table width="140%" align="center" style="max-width: 1400px;">
   <tr>
     <td colspan="2" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qdans&theme=transparent" width="100%" />
