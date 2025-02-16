@@ -1,6 +1,6 @@
 <h1 align="left">Hello. I'm DANS.</h1>
 
-The fastest thing in the world is technology 🚀</p>
+The fastest thing in the world is technology </p>
 
 <table style="width: 100vw; max-width: 100vw; margin: 0; border-collapse: collapse; border-radius: 20px; overflow: hidden;">
   <tr>
